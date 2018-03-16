@@ -4,9 +4,7 @@ export default class Footer extends Component {
   render() {
     return (
       <div className="App">
-        <p className="App-intro">
-         Footer
-        </p>
+     
       </div>
     );
   }
