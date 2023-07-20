@@ -10,7 +10,7 @@ export default class GKForm extends Component{
     render(){
         return(
             <form className = "container" onSubmit={this.handleFormSubmit}>
-                <h5>G K Interview</h5>
+                <h5>G K Interview....</h5>
                 <SingleInput/> //Name
                 <SingleInput/>  //Test Score
                 <SingleInput/>  //L1 Result
